@@ -1,0 +1,5 @@
+# Ignore the .vscode directory
+/data/stud_binit/VietSing/DiffSinger/.vscode
+
+# Ignore the venv directory
+/data/stud_binit/VietSing/DiffSinger/venv
